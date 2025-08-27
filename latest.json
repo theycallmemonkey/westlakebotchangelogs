@@ -1,11 +1,10 @@
 {
-  "guildId": "1387892260208902205",
-  "version": "v0.0.2 build 5",
+  "version": "v0.0.4 build 1",
   "notes": "",
-  "publishedAt": 1756317199457,
+  "publishedAt": 1756318283865,
   "sections": {
     "Additions": [
-      "New car"
+      "test"
     ]
   }
 }
